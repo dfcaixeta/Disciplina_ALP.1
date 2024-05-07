@@ -19,6 +19,11 @@ UNIDADE 03
 1. LINGUAGEM DE PROGRAMAÇÃO. 1.1. Do que precisamos. 1.2. Linguagem de programação.
 2. AMBIENTE DE DESENVOLVIMENTO. 2.1. Funcionalidades de uma IDE. 2.2. Compilação e Interpretação: Código fonte e objeto e máquina virtual. 2.3. VisualG/Portugol.
 3. ESTRUTURA SEQUENCIAL. 3.1. Introdução. 3.2. Expressões aritméticas. 3.3. Operadores aritméticos. 3.4. Variáveis e tipos de dados. 3.5. As três operações básicas (Entrada, Processamento e Saída). 3.6. Funções matemática.
-4. EXPRESSÕES COMPARATIVAS E LÓGICAS. 4.1. Expressões de comparação. 4.2. Expressões lógicas. 4.3. Operadores lógicos (AND, OR, NOT).
+Referências
+
+UNIDADE 04
+01. PRIMEIROS PASSOS EM C. 1.1. Conceitos. 1.2. Tipos de dados e variáveis. 1.3. Práticas.
+02. EXPRESSÕES COMPARATIVAS & LÓGICAS. 2.1. Expressões de comparações. 2.2. Expressões lógicas. 2.3. Operadores lógicos.
+03. ESTRUTURA CONDICIONAL. 3.1. Conceitos. 3.2. O encandeamento [...]. 3.3. Estrutura condicional em C.
 Referências
 
